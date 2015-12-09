@@ -1,3 +1,4 @@
+# coding=utf-8
 # Author Aleksi Hoffman
 # Based on apns-client implementation by Sardar Yumatov
 #
